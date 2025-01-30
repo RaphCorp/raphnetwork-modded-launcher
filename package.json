@@ -1,7 +1,7 @@
 {
     "name": "RaphNetwork Launcher",
     "preductname": "RaphNetwork Modded",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Launcher de RaphNetwork",
     "main": "src/app.js",
     "author": {
